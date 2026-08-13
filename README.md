@@ -29,3 +29,7 @@ ls
 ## Git Branching Practice
 
 This repository also includes Git branching practice using separate branches for Linux commands, Bash scripting, and documentation.
+
+## Documentation Practice
+
+This branch is used to practice Linux documentation and maintain project notes.
