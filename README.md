@@ -25,3 +25,7 @@ This repository contains my Linux learning and practice work.
 The goal of this repository is to practice Linux regularly and develop practical skills useful for Embedded Systems and software development.
 ls
 
+
+## Git Branching Practice
+
+This repository also includes Git branching practice using separate branches for Linux commands, Bash scripting, and documentation.
