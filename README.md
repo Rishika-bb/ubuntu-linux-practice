@@ -29,3 +29,7 @@ ls
 ## Git Branching Practice
 
 This repository also includes Git branching practice using separate branches for Linux commands, Bash scripting, and documentation.
+
+## Bash Scripting Practice
+
+This branch is used to practice Bash scripting and Linux automation.
